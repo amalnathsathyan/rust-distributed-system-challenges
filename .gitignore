@@ -1,0 +1,16 @@
+# Rust
+target/
+Cargo.lock
+
+# Logs & runtime data
+*.log
+store/
+*.png
+*.svg
+
+# OS junk
+.DS_Store
+
+# Added by cargo
+
+/target
